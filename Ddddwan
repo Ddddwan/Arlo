@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Love</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #1e90ff;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 20px;
+        }
+        .footer {
+            font-size: 0.8em;
+            color: #888;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Our Love Story</h1>
+    <p>Every moment with you is a treasure. Let's keep making beautiful memories together.</p>
+    <p>Forever yours, always.</p>
+
+    <div class="footer">
+        <p>Created with love by Arlo and Dawn</p>
+    </div>
+
+</body>
+</html>
